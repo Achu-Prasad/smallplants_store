@@ -28,9 +28,13 @@ yarn-error.log*
 # local env files
 .env*.local
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 =======
 >>>>>>> dfce62a (Initial commit from Create Next App)
+=======
+.env
+>>>>>>> 9814ee7 (Merged local changes and removed unused files)
 
 # vercel
 .vercel

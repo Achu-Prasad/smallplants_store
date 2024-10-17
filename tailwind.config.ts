@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9814ee7 (Merged local changes and removed unused files)
     fontSize: {
       "heading1-bold": [
         "50px",
@@ -87,6 +90,7 @@ const config: Config = {
         },
       ],
     },
+<<<<<<< HEAD
     extend: {
       colors: {
         "red-1": "#FF0000",
@@ -97,15 +101,21 @@ const config: Config = {
   },
   plugins: [require("tailwind-scrollbar-hide")],
 =======
+=======
+>>>>>>> 9814ee7 (Merged local changes and removed unused files)
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        "red-1": "#FF0000",
+        "grey-1": "#F7F7F7",
+        "grey-2": "#8A8A8A",
       },
     },
   },
+<<<<<<< HEAD
   plugins: [],
 >>>>>>> dfce62a (Initial commit from Create Next App)
+=======
+  plugins: [require("tailwind-scrollbar-hide")],
+>>>>>>> 9814ee7 (Merged local changes and removed unused files)
 };
 export default config;
